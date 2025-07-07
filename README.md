@@ -27,7 +27,7 @@ Git
 Backend
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/sghss.git
+git clone https://github.com/anacarolRicciardi/API_Hospitalar_System
 
 cd sghss/sghss-backend
 
