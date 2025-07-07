@@ -111,7 +111,7 @@ sghss/
 
 │   └── package.json        # Dependências do frontend
 
-├── Projeto_4300607_Ana_Carolina_Prado_Ricciardi.pdf # Documentação detalhada do projeto
+├── Projeto_Ana_Carolina_Prado_Ricciardi.pdf # Documentação detalhada do projeto
 
 ├── relatorio_testes.md     # Relatório dos testes de API
 
